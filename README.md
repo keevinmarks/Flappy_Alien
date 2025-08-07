@@ -18,5 +18,5 @@ Jogue agora: [Clique aqui para jogar no navegador via WebGL](https://play.unity.
 - **Barra de espaço** – pular
 - **Ctrl direito (Right Control)** – atirar
 
-## 📂 Estrutura do projeto
+
 
